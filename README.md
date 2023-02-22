@@ -1,3 +1,8 @@
+## Introduction Pdf : [Lottery Picking System.pdf](https://github.com/vedantpatil25/Blockchain-Lottery-System/files/10806338/Lottery.Picking.System.pdf)
+
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
