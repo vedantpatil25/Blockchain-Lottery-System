@@ -1,5 +1,19 @@
+# Blockchain-based Lottery System
+This is a blockchain-based lottery system built using Next.js and Tailwind CSS. The system allows users to buy lottery tickets and participate in the lottery. The system is built on the Ethereum blockchain using smart contracts.
+
 ## Introduction Pdf : [Lottery Picking System.pdf](https://github.com/vedantpatil25/Blockchain-Lottery-System/files/10806338/Lottery.Picking.System.pdf)
 
+## Features
+- Buy lottery tickets
+- View all the available lotteries
+- View your tickets and the corresponding lottery
+- Participate in the lottery
+
+# Contributing
+Contributions are always welcome! Please feel free to raise issues and submit pull requests.
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
 
